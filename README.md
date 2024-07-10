@@ -4,7 +4,7 @@ Sorting algorithm visualization tool to illustrate and compare the mechanics and
 
 ## Live Demo
 
-[View Live Site Here](https://tylermommsen-sorting-visualizer.vercel.app/)
+[View Live Site Here](https://rajesh-sorting-visualizer.vercel.app/)
 
 ## Built With
 
@@ -33,9 +33,6 @@ Sorting algorithm visualization tool to illustrate and compare the mechanics and
 - **Bucket Sort** - Distributes the elements of an array into a number of buckets. Each bucket is then sorted individually, either using a different sorting algorithm, or by recursively applying the bucket sort algorithm.
 
 - **Heap Sort** - A hybrid stable sorting algorithm derived from merge sort and insertion sort, designed to perform well on many kinds of real-world data.
-
-## Gif
-![sortingvisualizationgif](https://github.com/TylerMommsen/sorting-visualizer/assets/65496518/e2406e34-9b15-44ce-8139-c5f75798b21b)
 
 ## Development
 
