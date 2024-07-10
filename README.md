@@ -43,13 +43,13 @@ Follow these steps to run the project locally.
 HTTPS
 
 ```sh
-git clone https://github.com/TylerMommsen/pathfinding-visualizer.git
+git clone https://github.com/Rajesh-muduli01/sorting-visualizer
 ```
 
 SSH
 
 ```sh
-git clone git@github.com:TylerMommsen/pathfinding-visualizer.git
+git clone git@github.com:Rajesh-muduli01/sorting-visualizer.git
 ```
 
 2. Install dependenices
